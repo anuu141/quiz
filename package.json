@@ -1,0 +1,31 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "Exam app using electon",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohanhacker/electronAPp.git"
+  },
+  "author": "Youstart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohanhacker/electronAPp/issues"
+  },
+  "homepage": "https://github.com/Rohanhacker/electronAPp#readme",
+  "dependencies": {
+    "annyang": "^2.6.0",
+    "electron": "^1.6.1",
+    "google-auth-library": "^0.9.8",
+    "googleapis": "20.1.0",
+    "jquery": "^3.1.0",
+    "localforage": "^1.4.2",
+    "materialize-css": "^0.97.7",
+    "pickadate": "^3.5.6",
+    "sendgrid": "^4.3.0"
+  }
+}
